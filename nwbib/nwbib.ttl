@@ -538,7 +538,7 @@
     skos:narrower :N142310, :N142320, :N142330, :N142340, :N142350, :N142360, :N142370, :N142380, :N142390 ;
     skos:notation "142300" ;
     skos:prefLabel "Wasser"@de ;
-    skos:scopeNote "Mineralbrunnen u. Thermalquellen, s. Sachgebiet \"Mineralogie: Mineralquellen. Thermalquellen\""@de ;
+    skos:scopeNote "Mineralbrunnen u. Thermalquellen, s. [Sachgebiet \"Mineralogie: Mineralquellen. Thermalquellen\"](https://nwbib.de/subjects#N141460)"@de ;
     skos:exactMatch wd:Q283, gnd:4064689-0 .
 
 :N142310
