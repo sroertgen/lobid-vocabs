@@ -5497,7 +5497,7 @@
     skos:narrower :N706041, :N706042, :N706043 ;
     skos:notation "706040" ;
     skos:prefLabel "Märchen. Sagen. Legenden"@de ;
-    skos:scopeNote "S.a. einzelne Notationen [Märchen](#N706041), [Sagen](#706042), [Legenden](#N706043)"@de .
+    skos:scopeNote "Test S.a. einzelne Notationen [Märchen](#N706041), [Sagen](#706042), [Legenden](#N706043)"@de .
 
 :N706041
     a skos:Concept ;
